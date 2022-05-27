@@ -1,6 +1,8 @@
 RENCANA KEDEPANNYA KUROYASHA
 
 - Uang
+  * Rupiah
+  * Dolar
 - Pekerjaan
 - Sikap
 - Emosi
